@@ -1,6 +1,5 @@
 # PhaseBehaviour
 phase behaviour of Linux processes and clustering
---------------------- DEVELOPERS ----------------------
 
 PES University , Bangalore - 560 085
 
@@ -9,7 +8,7 @@ Yeshaswini M - 01FB16ECS459
 Vishal S     - 01FB16ECS449
 Yashas ND    - 01FB16ECS458
 
------------ IDEA AND ALGORITHM DESCRIPTION -------------
+## Algorithm Description
 
 When a program is run as described in the MAN PAGE , the records of it is registered in the ./analyser/result/results.txt file
 
@@ -20,7 +19,7 @@ now these vectors are clustered into groups based on their cosine similarities. 
 
 
 Clustering Algorithm :
-
+```
 ALGORITHM group_them(VECTORS)
 // description : The number of clusters that can be formed by taking a threshold value of THRESHOLD 
 // input : VECTORS is a collection of vectors
@@ -47,35 +46,19 @@ end
 else
 	return(count(NEW_SET))
 end
+```
+## Usage
 
+**NAME**
+	```main.sh - Performance profiling tool for linux```
 
------------------MAN PAGE OF .main.sh -------------------
+**SYNOPSYS** 
+	```sudo ./main.sh COMMAND [ARGS]```
 
+**COMMANDS**
+	```any linux command that doesnot generate any errors :)```
 
-main.sh    main.sh Manual
-
-NAME
-	main.sh - Performance profiling tool for linux
-
-SYNOPSYS 
-	sudo ./main.sh COMMAND [ARGS]
-
-COMMANDS
-	any linux command that doesnot generate any errors :)
-
-DESCRIPTION
-	performance profiling program, this will generate an output [ the number of phases in the COMMAND] 
-	to a results.txt file present in the internal directory ,
+**DESCRIPTION**
+	```performance profiling program, this will generate an output [ the number of phases in the COMMAND] 
+	to a results.txt file present in the internal directory ,```
 	
-
-
-Example :
-	
-	# The following commands runs man man commaqnd and generates its output in ./analyser/result/results.txt
-	$ sudo ./main.sh man man
-
-	# The following commands runs ls commaqnd and generates its output in ./analyser/result/results.txt
-	$ sudo ./main.sh ls
-
-	# The following commands runs dpkg --list commaqnd and generates its output in ./analyser/result/results.txt
-	$ sudo ./main.sh dpkg --list 
