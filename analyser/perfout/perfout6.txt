@@ -1,0 +1,52 @@
+     0.010137438          27,75,246      branch-instructions                                         
+     0.010137438              7,067      branch-misses             #    0.25% of all branches        
+     0.010137438             59,638      cache-references                                            
+     0.010137438             21,473      cache-misses              #   36.006 % of all cache refs    
+     0.020329571          28,20,817      branch-instructions                                         
+     0.020329571                643      branch-misses             #    0.02% of all branches        
+     0.020329571              4,355      cache-references                                            
+     0.020329571                458      cache-misses              #    1.431 % of all cache refs    
+     0.030491294          28,08,842      branch-instructions                                         
+     0.030491294                596      branch-misses             #    0.02% of all branches        
+     0.030491294              3,337      cache-references                                            
+     0.030491294                252      cache-misses              #    1.123 % of all cache refs    
+     0.040655507          28,10,889      branch-instructions                                         
+     0.040655507                543      branch-misses             #    0.02% of all branches        
+     0.040655507                883      cache-references                                            
+     0.040655507                 89      cache-misses              #    0.522 % of all cache refs    
+     0.050821599          27,84,405      branch-instructions                                         
+     0.050821599                926      branch-misses             #    0.03% of all branches        
+     0.050821599             10,456      cache-references                                            
+     0.050821599              3,621      cache-misses              #   23.014 % of all cache refs    
+     0.060983647          27,89,380      branch-instructions                                         
+     0.060983647                676      branch-misses             #    0.02% of all branches        
+     0.060983647              5,169      cache-references                                            
+     0.060983647                356      cache-misses              #    2.548 % of all cache refs    
+     0.071145724          28,09,357      branch-instructions                                         
+     0.071145724                571      branch-misses             #    0.02% of all branches        
+     0.071145724              1,189      cache-references                                            
+     0.071145724                 91      cache-misses              #    0.749 % of all cache refs    
+     0.081310142          28,07,409      branch-instructions                                         
+     0.081310142                540      branch-misses             #    0.02% of all branches        
+     0.081310142              2,119      cache-references                                            
+     0.081310142                 97      cache-misses              #    0.890 % of all cache refs    
+     0.091474498          28,09,343      branch-instructions                                         
+     0.091474498                570      branch-misses             #    0.02% of all branches        
+     0.091474498              1,587      cache-references                                            
+     0.091474498                 60      cache-misses              #    0.609 % of all cache refs    
+     0.101638947          28,10,264      branch-instructions                                         
+     0.101638947                544      branch-misses             #    0.02% of all branches        
+     0.101638947              1,438      cache-references                                            
+     0.101638947                112      cache-misses              #    1.242 % of all cache refs    
+     0.111807667          28,11,667      branch-instructions                                         
+     0.111807667                559      branch-misses             #    0.02% of all branches        
+     0.111807667                900      cache-references                                            
+     0.111807667                104      cache-misses              #    1.256 % of all cache refs    
+     0.121971757          28,08,935      branch-instructions                                         
+     0.121971757                536      branch-misses             #    0.02% of all branches        
+     0.121971757                790      cache-references                                            
+     0.121971757                102      cache-misses              #    1.332 % of all cache refs    
+     0.128301724          17,70,239      branch-instructions                                         
+     0.128301724              1,188      branch-misses             #    0.04% of all branches        
+     0.128301724             18,924      cache-references                                            
+     0.128301724              4,421      cache-misses              #   51.878 % of all cache refs    
