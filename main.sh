@@ -16,6 +16,3 @@ $1 $2 $3 $4 $5 $6 $7 $8 $9;
 echo $1 $2 $3 $4 $5 $6 $7 $8 $9 >> ./analyser/result/results.txt;
 python3 ./analyser/pythonprogs/finalout.py >> ./analyser/result/results.txt;
 
-
-# we need to plot the different clusters formed and also all the vectors that correspond to those values
-# dilipm798@gmail.com

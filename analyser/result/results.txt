@@ -1,8 +1,2 @@
-man man
-5
-dpkg --list
-5
-ls
+ls -l
 1
-./o.out
-4
