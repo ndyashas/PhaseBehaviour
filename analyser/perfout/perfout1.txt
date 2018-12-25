@@ -1,4 +1,0 @@
-     0.001411839           4,59,758      branch-instructions                                         
-     0.001411839             20,181      branch-misses             #    4.39% of all branches        
-     0.001411839           1,45,387      cache-references                                            
-     0.001411839             55,831      cache-misses              #   38.402 % of all cache refs    
